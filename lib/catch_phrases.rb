@@ -13,8 +13,8 @@ def link
   puts advise
 end
 
-def all_phrases(mario, toadstool, link)
-  print "#{mario}"
-  print "#{toadstool}"
-  print "#{link}"
+def all_phrases()
+  puts "#{mario}"
+  puts "#{toadstool}"
+  puts "#{link}"
 end
